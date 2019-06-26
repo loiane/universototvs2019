@@ -17,3 +17,4 @@
 * Tour of heroes Vue: https://github.com/johnpapa/heroes-vue
 * Angular elements: https://blog.bitsrc.io/using-angular-elements-why-and-how-part-1-35f7fd4f0457
 * Guia Angular Schematics: https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4
+* Curso Angular grátis: https://loiane.training/
